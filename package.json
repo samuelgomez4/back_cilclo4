@@ -1,23 +1,25 @@
 {
-  "name": "backend_proyecto",
-  "version": "1.0.0",
-  "description": "backend para proyecto ciclo4 Mision Tic",
+  "name": "backendproyecto_nigth",
+  "version": "0.9.0",
+  "description": "backend para el proyecto final de ejemplo de los grupos 1,2,6 y 59",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samuelgomez4/back_cilclo4.git"
+    "url": "git+https://github.com/anfejaramillo/backendproyecto_nigth.git"
   },
-  "author": "samuelGomez",
+  "author": "anfejaramillo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samuelgomez4/back_cilclo4/issues"
+    "url": "https://github.com/anfejaramillo/backendproyecto_nigth/issues"
   },
-  "homepage": "https://github.com/samuelgomez4/back_cilclo4#readme",
+  "homepage": "https://github.com/anfejaramillo/backendproyecto_nigth#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
-    "express": "^4.18.2"
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
   }
 }
